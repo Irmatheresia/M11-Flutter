@@ -24,6 +24,14 @@ class Pertemuan11Provider extends ChangeNotifier {
         "price": 1500000,
         "rating": 4.1
       },
+            {
+        "model": "Xiaomi 13 Pro",
+        "img":
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Sony_Xperia_Z.JPG/200pxSony_Xperia_Z.JPG",
+        "developer": "Xiaomi Inc",
+        "price": 21399000,
+        "rating": 4.4
+      }
     ]
   };
   final laptop = {
