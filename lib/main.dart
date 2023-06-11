@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import 'package:flutter_application_1/pertemuan11/pertemuan11_provider.dart';
 import 'package:flutter_application_1/pertemuan11/pertemuan11_screen.dart';
-import 'package:flutter_application_1/pertemuan11/pertemuan10.dart';
+import 'package:flutter_application_1/pertemuan11/pertemuan11.dart';
 
 void main() {
   runApp(MultiProvider(
